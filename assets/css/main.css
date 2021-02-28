@@ -4248,6 +4248,11 @@ label {
 		margin-left: 1em;
 	}
 
+	.resume {
+		text-align: center;
+		padding-top: 10px;
+	}
+
 	.footer {
 		margin-top: 20px;
 		margin-bottom: 20px;
