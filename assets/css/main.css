@@ -295,6 +295,10 @@ input, select, textarea {
 					width: 100%;
 				}
 
+			.container img {
+				height: 13rem;
+			}
+
 		}
 
 /* Row */
