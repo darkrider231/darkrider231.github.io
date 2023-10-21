@@ -1,0 +1,63 @@
+* {
+    margin: 0 auto;
+}
+
+.logo {
+    cursor: default;
+    color: aliceblue;
+}
+
+.header {
+    display: flex;
+    top: 0;
+    left: 0;
+    background-color: rgb(0, 0, 0);
+    font-size: 2.4rem;
+}
+
+.header a:hover {
+    color: aqua;
+}
+
+.header a {
+    display: inline-block;
+    justify-content: space-between;
+    color: aqua;
+    text-decoration: none;
+}
+
+.navbar {
+    display: inline-block;
+    justify-content: right;
+    align-items:flex-end;
+    height: 1rem;
+    position: relative;
+    
+}
+
+.home {
+    background: rgba(0, 0, 0, 0.9);
+    color: white;
+    padding: 3.5rem;
+}
+
+.home-content {
+    font-size: 1.3rem;
+}
+
+.home-content p {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+}
+
+.home-content i {
+    color: aqua;
+    font-size: 2.3rem;
+}
+
+.home-content i:hover {
+    box-shadow: 4px 4px 5px aqua;
+}
+
